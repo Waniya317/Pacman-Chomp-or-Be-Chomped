@@ -23,6 +23,9 @@ The game is completely safe and does not require Visual Studio or SFML installed
 2. Open project in Visual Studio
 3. Set to Release mode
 4. Make sure `SFML` is linked properly
+## Video Demonstration 
+
+https://github.com/user-attachments/assets/8899bc48-8e38-4112-9c0d-0b88325263a0
 
 ##  Developer
 Made by [Waniya Suhail](https://www.linkedin.com/in/waniya-sohail-b9a37b328/)
